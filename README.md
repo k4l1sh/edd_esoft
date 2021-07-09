@@ -1,3 +1,1 @@
-Trabalho de estrutura de dados realizado no curso de engenharia de software.
-
-Questão sobre o funcionamento de uma pilha sem alocação de memória.
+Trabalhos de estrutura de dados 1 e 2 realizados no curso de engenharia de software pela Unicesumar.
