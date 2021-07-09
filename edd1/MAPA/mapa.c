@@ -54,10 +54,10 @@ void atribuirDistancia(int ra) {
 
 /*
 Função para organizar o heap fazendo com que a raiz do heap seja o valor mínimo.
-Vale lembrar que a implementação do algoritmo Dijktra poderia ser simplificada
+Vale lembrar que a implementação do algoritmo Dijkstra poderia ser simplificada
 seguindo uma implementação em um array com complexidade de tempo de O(vertices²),
 porém foi escolhido implementá-lo em um min-heap para alcançar uma complexidade de tempo
-de O((Vertices + arestas)log(vertices)) e estudar o funcionamento deste tipo abstrato de dado.
+de O((Vertices + arestas)log(vertices)) e estudar o funcionamento deste tipo abstrato de dados.
 */
 void minHeapify(unsigned int heap[][2], unsigned int ponteiro, unsigned int tamanhoHeap) {
 
