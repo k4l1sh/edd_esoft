@@ -18,15 +18,6 @@ Com base no exposto, desenvolva um programa em linguagem C que cumpra os seguint
 4. Aplique o algoritmo de ordenação Mergesort. 
 
 5. Exiba a quantidade de vendas de cada barraca de modo ordenado. 
-
-
-​Orientações para realização da Atividade MAPA:
-- Realize uma Leitura da Unidade IV do Livro da Disciplina.
-- Leia os materiais extras sobre análise ambiental disponíveis no Material da Disciplina.
-- Assista ao Vídeo de Orientações gravado pelo professor acessando o link: https://youtu.be/iFflDlX4EJk
-- Se certifique de que está encaminhando o arquivo correto no seu Studeo antes de Finalizar, pois não haverá como editar e/ou enviar outro arquivo após a finalização.
-- Enviar o código fonte (arquivo.c) nomeando o arquivo com seu nome completo. Exemplo: Erinaldo_Nascimento.c
-- Em casos de dúvidas, entre em contato com o seu Professor (a) Mediador (a) pelo Studeo no Fale com o Mediador.
 */
 
 #include <stdio.h>

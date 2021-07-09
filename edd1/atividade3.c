@@ -26,8 +26,6 @@ Após a diretora Alice, uma das equipes seria escolhida para ser o alvo da busca
 Dado o nome do algoritmo "busca em profundidade", infere-se essa prioridade da busca até que ache o final daquela ramificação antes de dar sequência para as outras ramificações, ou seja, uma busca até a região mais profunda do grafo (nó sem filhos) para que a busca retroceda até um nó com mais de uma ramificação e busque até o final daquela ramificação.
 
 Um código em C foi elaborado para representar a busca em profundidade no caso apresentado:
-
-
 */
 
 #include <stdio.h>
